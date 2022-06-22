@@ -11,7 +11,7 @@ export default class DeviceStore{
     ]
     this._brands =[
       {id:1, name:'Samsung'},
-      {id:2, name:'iPhone'},
+      {id:2, name:'iphone'},
       {id:3, name:'Lenovo'},
       {id:4, name:'Xiaomi'},
       {id:5, name:'Meizu'}
